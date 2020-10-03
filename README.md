@@ -18,7 +18,7 @@
   - [Web Scrapper](https://github.com/ashrafkamarudin/Simple-WebScrapper) using python.
   - and more coming ...
 - 📫 How to reach me: ashrafkamarudin1995@gmail.com
-- 😄 Check out my [Portfolio](https://ashrafkamarudin.github.io/) !
+- 😄 Check out my [Portfolio](https://ashrafkamarudin.com/) !
 
 
 <!--
