@@ -11,12 +11,9 @@
 <a href="https://github.com/ashrafkamarudin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=ashrafkamarudin&show_icons=true" align="right" height="150" /></a>
 
 - ☁️ Software Engineer at [RunCloud](https://runcloud.io/)
-- 🔭 I’m currently working on upskilling my skills with various projects.
+- 🔭 I’m currently working on.
+  - [Learning UI/UX Design](https://www.behance.net/ashrafkamarudin)
   - [Sekolah Code](https://sekolahcode.com/)
-  - [Flutter Cache](https://github.com/SekolahCode/flutter_cache)
-  - [Sucikan Jiwa](https://sucikanjiwa.com/) (Still need lot's of work)
-  - [Web Scrapper](https://github.com/ashrafkamarudin/Simple-WebScrapper) using python.
-  - and more coming ...
 - 📫 How to reach me: ashrafkamarudin1995@gmail.com
 - 😄 Check out my [Portfolio](https://ashrafkamarudin.com/) !
 
