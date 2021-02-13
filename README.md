@@ -8,8 +8,6 @@
   </a>
 </p>
 
-Check out my [Portfolio !](https://ashrafkamarudin.com/)
-
 - ☁️ Software Engineer at [RunCloud](https://runcloud.io/)
 - 🔭 I’m currently working on.
   - [Learning UI/UX Design](https://www.behance.net/ashrafkamarudin)
