@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<a href="https://github.com/ashrafkamarudin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=ashrafkamarudin&show_icons=true" align="right" height="150" /></a>
+
 - ☁️ Software Engineer at [RunCloud](https://runcloud.io/)
 - 🔭 I’m currently working on.
   - [Learning UI/UX Design](https://www.behance.net/ashrafkamarudin)
