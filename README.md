@@ -1,6 +1,6 @@
 <p>
   <a href="https://twitter.com/ashee_k?lang=en">
-    <img alt="Twitter Follow." src="https://img.shields.io/twitter/follow/ashee_k?label=Follow&style=social">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ashee_k?label=Follow&style=social">
   </a>
   
   <a href="https://github.com/ashrafkamarudin">
