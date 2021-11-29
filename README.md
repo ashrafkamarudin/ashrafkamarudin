@@ -15,5 +15,4 @@
   - [Learning UI/UX Design](https://www.behance.net/ashrafkamarudin)
   - [Sekolah Code](https://sekolahcode.com/)
 - 📫 How to reach me: ashrafkamarudin1995@gmail.com
-- 😄 Check out my [Portfolio](https://ashrafkamarudin.com/) !!
-
+- 😄 Check out my [Portfolio](https://ashrafkamarudin.com/) !
