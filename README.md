@@ -18,3 +18,4 @@
   - [Sekolah Code](https://sekolahcode.com/)
 - 📫 How to reach me: ashrafkamarudin1995@gmail.com
 - 😄 Check out my [Portfolio](https://ashrafkamarudin.com/) !
+.
